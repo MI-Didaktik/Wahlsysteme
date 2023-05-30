@@ -12,7 +12,11 @@ Hier können die H5P-Inhalte abgerufen werden.
 4. In Wahlsysteme-Gith5p-standalone-1.3.x\demo: \
 &emsp; &emsp;&emsp; &emsp; templace.txt duplizieren und Kopie zu "Name".html umbenennen
 5. In "Name".html:\
- &emsp;&emsp; &emsp;&emsp; <!-- Replace me with H5P name --/> durch "Name" ersetzen
+ &emsp;&emsp; &emsp;&emsp; <!-- Replace me with H5P name --/> durch "Name" ersetzen \
+&emsp; &emsp;&emsp;&emsp; Alternative zu 1-5: direkt .htlm in Wahlsysteme-Gith5p-standalone-1.3.x\demo einfügen  
 6. In index.html:\
 &emsp; &emsp;&emsp; &emsp; Link mit ..."Name".html hinzufügen
 7. push und commit
+
+## Die Website:
+....kann abgerufen werden unter: [diesem Link ](https://mi-didaktik.github.io/Wahlsysteme/)
